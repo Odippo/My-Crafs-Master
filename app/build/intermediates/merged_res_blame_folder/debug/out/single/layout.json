@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_list.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_property_owner.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_inbox.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_info_crafts_person.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_info_crafts_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_crafts.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_crafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_property_mechanic.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_mechanic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_profile_owner.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_profile_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_property_plumber.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_plumber.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\nav_header_home.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\content_home.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_plumbers.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_plumbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\app_bar_home.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "com.example.myproject.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.example.myproject.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_property_carpenter.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_carpenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_payment_owner.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_payment_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_crafts_info.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_crafts_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\activity_query.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\content_crafts.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\content_crafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_inbox_owner.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_inbox_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_work.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-mergeDebugResources-52:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_settings.xml"
+    }
+]

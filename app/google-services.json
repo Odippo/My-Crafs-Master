@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556956004277",
+    "firebase_url": "https://crafts-hub-29e9c-default-rtdb.firebaseio.com",
+    "project_id": "crafts-hub-29e9c",
+    "storage_bucket": "crafts-hub-29e9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556956004277:android:739923799c382aeb4173fc",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556956004277-jh3rkpjnpeb9eusoagu7v4p96vkj2dnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_S04ngWZgjgDswlyd8xZXaqoPCnRRCdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556956004277-jh3rkpjnpeb9eusoagu7v4p96vkj2dnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

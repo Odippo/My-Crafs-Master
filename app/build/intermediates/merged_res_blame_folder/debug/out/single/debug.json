@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\cover_password.png"
+    },
+    {
+        "merged": "com.example.myproject.app-merged_res-53:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.myproject.app-main-55:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxhdpi_my_new_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxhdpi\\my_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_second_mpesa.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_second_mpesa.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_signup_two.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\signup_two.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_mymenu.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\mymenu.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\cover_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_profile_picture.jpg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_profile_picture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_model.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\model.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_myspanner.jpg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\myspanner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_second_balance.webp.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_second_balance.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_second_profile.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_second_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_payment_owner.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_payment_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_colour.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\colour.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_property_plumber.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_plumber.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_bag.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_bag.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xhdpi_craft_hub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xhdpi\\craft_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxxhdpi_my_new_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxxhdpi\\my_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_property_mechanic.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_mechanic.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_back_signup.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\back_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\cover_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-mdpi_my_new_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-mdpi\\my_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_background.avif.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_background.avif"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_payment.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_app_bar_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_new_cover.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\new_cover.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_very_background.jpg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_very_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxhdpi_craft_hub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxhdpi\\craft_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_work.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_final_signup.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\final_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_share_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_signup.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_query.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_inbox.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_crafts_info.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_crafts_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_property_carpenter.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_carpenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_mytool.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\mytool.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_signup.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\menu_menu_crafts.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\menu\\menu_crafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_share_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_sign_two.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\sign_two.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_myplumber.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\myplumber.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_sign_in.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\sign_in.png"
+    },
+    {
+        "merged": "com.example.myproject.app-merged_res-53:/layout_fragment_home.xml.flat",
+        "source": "com.example.myproject.app-main-55:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_color.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\color.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_mpesa.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_mpesa.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_inbox_owner.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_inbox_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\menu_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_logout_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_logout_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_inbox_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_inbox_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xhdpi_my_new_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xhdpi\\my_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_property_owner.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_property_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_info_crafts_person.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_info_crafts_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_signback.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_signback.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_bag.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_email.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_share_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_content_crafts.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\content_crafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_balance.webp.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_balance.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_craftshub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\craftshub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_infocraft.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\infocraft.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_sign_up.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\cover_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\cover_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_settings_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_money.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_money.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_cover_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\cover_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_myhousetwo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\myhousetwo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_account.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_tool.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\tool.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_blue_background.jpg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_blue_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_backsign.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_backsign.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_myquery.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\myquery.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_info_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_info_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_signinthree.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\signinthree.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_my_lock.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\my_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_share_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_signuptwo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\signuptwo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_person_pin_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_person_pin_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_cover_page.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_cover_page.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_plumbers.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_plumbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_email.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_email.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_work_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_work_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_cover_password.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\cover_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_show_password.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxxhdpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxxhdpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_second_profile_image.jpg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_second_profile_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-mdpi_craft_hub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-mdpi\\craft_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_baseline_inbox_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\baseline_inbox_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xhdpi_my_lock.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xhdpi\\my_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_my_second_profile.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\my_second_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_profile_owner.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_profile_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_payment.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_crafts.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_crafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-anydpi-v21_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-anydpi-v21\\baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-hdpi_craft_hub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-hdpi\\craft_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_message.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_message.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_crafts_image.webp.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_crafts_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-xxhdpi_my_money.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-xxhdpi\\my_money.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_show_password.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\show_password.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_work_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_work_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxxhdpi_craft_hub.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxxhdpi\\craft_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_my_settings.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\my_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable_craft.jpeg.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\drawable\\craft.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\baseline_share_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-hdpi_baseline_home_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-hdpi\\baseline_home_24.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-ldpi_my_account.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-ldpi\\my_account.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\mipmap-hdpi_my_new_logo.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-main-55:\\mipmap-hdpi\\my_new_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-merged_res-53:\\drawable-mdpi_baseline_share_24.png.flat",
+        "source": "C:\\Users\\HP 430 G5\\.gradle\\daemon\\8.0\\com.example.myproject.app-pngs-49:\\drawable-mdpi\\baseline_share_24.png"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/my_second_profile"/>
+    <item android:title="Inbox"
+        android:id="@+id/Inbox"
+        android:icon="@drawable/baseline_inbox_24"/>
+    <item android:title="Payment"
+        android:id="@+id/payment"
+        android:icon="@drawable/my_payment"/>
+</menu>

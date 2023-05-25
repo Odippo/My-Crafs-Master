@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.king.myfirstbasicactivityapp.MainActivity">
+    <item
+        android:id="@+id/action_s1"
+        android:orderInCategory="100"
+        android:title="Light Mode "
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_s2"
+        android:orderInCategory="100"
+        android:title="Sign Out"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_s3"
+        android:orderInCategory="100"
+        android:title="Dark Mode"
+        app:showAsAction="never" />
+
+
+</menu>
